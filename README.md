@@ -37,7 +37,7 @@ That repo contains:
 ## 📁 File Structure
 
 Login_Web_App_WAR/ <br>
-├── Login_Web_App.war <br>
+├── LoginWebApp.war <br>
 └── README.md
 
 ---

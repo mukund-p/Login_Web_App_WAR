@@ -40,13 +40,6 @@ Login_Web_App_WAR/ <br>
 ├── Login_Web_App.war <br>
 └── README.md
 
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](../Login_Web_App/blob/main/LICENSE).
-
 ---
 
 ## ✨ Author
